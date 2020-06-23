@@ -9,7 +9,7 @@ Crossover another texture in two different directions to create the mario sunshi
 
 ![Screen Shot 2020-06-23 at 7 16 14 PM](https://user-images.githubusercontent.com/13420668/85397393-0c9bbe80-b586-11ea-880d-eb94ec1e89a9.png)
 
-Blended result
+Blended result, the underwater refraction effect are done by using render texture, instead of grabpass.
 
 ![Screen Shot 2020-06-23 at 7 07 46 PM](https://user-images.githubusercontent.com/13420668/85397410-14f3f980-b586-11ea-98e9-fe2b9fbaa257.png)
 
